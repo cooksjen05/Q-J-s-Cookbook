@@ -4,6 +4,7 @@ image: /img/recipes/crock-pot-pot-roast-1-1-320x320.jpg
 tags:
   - Slow Cooker
   - Roast
+  - Favorite
 time: 15 minutes
 servings: 6
 sourceLabel: Easy Peazy Mealz
