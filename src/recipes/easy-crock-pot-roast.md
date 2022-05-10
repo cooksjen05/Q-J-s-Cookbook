@@ -20,10 +20,10 @@ ingredients:
   - 1 Tbsp brown sugar
   - " 2 Tbsp minced dry onions "
   - 1 Tbsp dried parsley
-  - " 1 Tbsp dried oregano"
+  - 1 Tbsp dried oregano
   - 1 Tbsp beef bouillon paste kind, or cubes
   - 3 cups beef broth
-  - " 2 lbs potatoes cubed "
+  - "2 lbs potatoes cubed "
   - 1 lb baby carrots
 ---
 1. In Frying Pan-  brown all sides of your roast by heating olive oil over medium-high heat, and searing all the sides.
